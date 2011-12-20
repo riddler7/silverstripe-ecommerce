@@ -7,6 +7,8 @@
 class ProductVariation extends DataObject {
 
 	static $db = array(
+                'Special' => 'Currency',
+                'Description' => 'Text',
 		//'Title' => 'Text',
 		'InternalItemID' => 'Varchar(30)',
 		'Price' => 'Currency'
@@ -35,6 +37,8 @@ class ProductVariation extends DataObject {
 
 	static $summary_fields = array(
 		'InternalItemID' => 'Product Code',
+                'Description' => 'Old Title',
+                'Title' => 'Title',
 		'Price' => 'Price'
 	);
 
@@ -43,7 +47,8 @@ class ProductVariation extends DataObject {
 	function getCMSFields() {
 		$fields = array();
 		$fields[] = new TextField('InternalItemID','Product Code');
-		$fields[] = new TextField('Price');
+                $fields[] = new NumericField('Special');
+		$fields[] = new NumericField('Price');
 
 		//add attributes dropdowns
 		if($this->Product()->VariationAttributes()->exists() && $attributes = $this->Product()->VariationAttributes()){
@@ -144,6 +149,10 @@ class ProductVariation extends DataObject {
 	function addLink() {
 		return $this->Item()->addLink($this->ProductID,$this->ID);
 	}
+        
+        public function HasSpecial() {
+                return !empty($this->Special) && $this->Special > 0;
+        }
 }
 
 class ProductVariation_OrderItem extends Product_OrderItem {
@@ -212,9 +221,9 @@ class ProductVariation_OrderItem extends Product_OrderItem {
 	}
 
 	function UnitPrice() {
-		return $this->ProductVariation()->Price;
+		return ($this->ProductVariation()->HasSpecial()) ? $this->ProductVariation()->Special : $this->ProductVariation()->Price;
 	}
-
+        
 	function TableTitle() {
 		return parent::TableTitle() . ' (' . $this->ProductVariation()->Title . ')';
 	}
