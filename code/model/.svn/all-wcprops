@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/1717/branches/0.8/code/model
+END
+OrderModifier.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1686/branches/0.8/code/model/OrderModifier.php
+END
+OrderItem.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1714/branches/0.8/code/model/OrderItem.php
+END
+EcommerceCurrency.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1242/branches/0.8/code/model/EcommerceCurrency.php
+END
+Order.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1554/branches/0.8/code/model/Order.php
+END
+OrderManipulation.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1462/branches/0.8/code/model/OrderManipulation.php
+END
+I18nDatetime.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1242/branches/0.8/code/model/I18nDatetime.php
+END
+EcommercePayment.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1255/branches/0.8/code/model/EcommercePayment.php
+END
+OrderAttribute.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1705/branches/0.8/code/model/OrderAttribute.php
+END
+EcommerceRole.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1686/branches/0.8/code/model/EcommerceRole.php
+END
+OrderStatusLog.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1242/branches/0.8/code/model/OrderStatusLog.php
+END
+ShoppingCart.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1717/branches/0.8/code/model/ShoppingCart.php
+END

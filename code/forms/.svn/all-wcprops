@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/1660/branches/0.8/code/forms
+END
+ShopAccountForm.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1242/branches/0.8/code/forms/ShopAccountForm.php
+END
+OrderFormWithoutShippingAddress.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1263/branches/0.8/code/forms/OrderFormWithoutShippingAddress.php
+END
+OrderModifierForm.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1242/branches/0.8/code/forms/OrderModifierForm.php
+END
+OrderForm.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1660/branches/0.8/code/forms/OrderForm.php
+END
+ShopAccountFormValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1242/branches/0.8/code/forms/ShopAccountFormValidator.php
+END
+ExpiryDateField.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1660/branches/0.8/code/forms/ExpiryDateField.php
+END
+OptionalConfirmedPasswordField.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1263/branches/0.8/code/forms/OptionalConfirmedPasswordField.php
+END
+OrderFormWithShippingAddress.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1263/branches/0.8/code/forms/OrderFormWithShippingAddress.php
+END
+EcomQuantityField.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1242/branches/0.8/code/forms/EcomQuantityField.php
+END

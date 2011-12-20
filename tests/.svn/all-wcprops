@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/1811/branches/0.8/tests
+END
+PaymentTest.php.stub
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1660/branches/0.8/tests/PaymentTest.php.stub
+END
+OrderModifierTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1526/branches/0.8/tests/OrderModifierTest.php
+END
+ProductOrderItemTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1811/branches/0.8/tests/ProductOrderItemTest.php
+END
+ProductTest.php.stub
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1660/branches/0.8/tests/ProductTest.php.stub
+END
+EcommerceTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1660/branches/0.8/tests/EcommerceTest.php
+END
+ShoppingCartTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1660/branches/0.8/tests/ShoppingCartTest.php
+END
+CheckoutPageTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1526/branches/0.8/tests/CheckoutPageTest.php
+END
+test_config.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1660/branches/0.8/tests/test_config.php
+END
+test_products.csv
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1244/branches/0.8/tests/test_products.csv
+END
+ProductGroupTest.php.stub
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1660/branches/0.8/tests/ProductGroupTest.php.stub
+END
+ecommerce.yml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1252/branches/0.8/tests/ecommerce.yml
+END
+OrderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1688/branches/0.8/tests/OrderTest.php
+END
+test_products.xls
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1244/branches/0.8/tests/test_products.xls
+END
+FlatTaxModifierTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1811/branches/0.8/tests/FlatTaxModifierTest.php
+END
+ProductBulkLoaderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1244/branches/0.8/tests/ProductBulkLoaderTest.php
+END

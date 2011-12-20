@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1704/branches/0.8/templates/Includes
+END
+Order_Payments.ss
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1243/branches/0.8/templates/Includes/Order_Payments.ss
+END
+Order.ss
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1242/branches/0.8/templates/Includes/Order.ss
+END
+Order_Printable.ss
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1242/branches/0.8/templates/Includes/Order_Printable.ss
+END
+Order_Shipping.ss
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1254/branches/0.8/templates/Includes/Order_Shipping.ss
+END
+ProductGroupItem.ss
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1660/branches/0.8/templates/Includes/ProductGroupItem.ss
+END
+Order_Content_Editable.ss
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1242/branches/0.8/templates/Includes/Order_Content_Editable.ss
+END
+Order_Member.ss
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1242/branches/0.8/templates/Includes/Order_Member.ss
+END
+Order_Content.ss
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1242/branches/0.8/templates/Includes/Order_Content.ss
+END
+ProductMenu.ss
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1242/branches/0.8/templates/Includes/ProductMenu.ss
+END
+ProductGroupPagination.ss
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1704/branches/0.8/templates/Includes/ProductGroupPagination.ss
+END
+OrderReceiptStyle.ss
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1242/branches/0.8/templates/Includes/OrderReceiptStyle.ss
+END
+Cart.ss
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1660/branches/0.8/templates/Includes/Cart.ss
+END

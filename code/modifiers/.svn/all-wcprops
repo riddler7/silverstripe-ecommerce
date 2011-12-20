@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/1678/branches/0.8/code/modifiers
+END
+SimpleShippingModifier.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1242/branches/0.8/code/modifiers/SimpleShippingModifier.php
+END
+TaxModifier.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1242/branches/0.8/code/modifiers/TaxModifier.php
+END
+SubTotalModifier.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1242/branches/0.8/code/modifiers/SubTotalModifier.php
+END
+FlatTaxModifier.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1678/branches/0.8/code/modifiers/FlatTaxModifier.php
+END
+WeightShippingModifier.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1242/branches/0.8/code/modifiers/WeightShippingModifier.php
+END

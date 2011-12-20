@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1242/branches/0.8/templates/email
+END
+Order_ReceiptEmail.ss
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1242/branches/0.8/templates/email/Order_ReceiptEmail.ss
+END
+Order_StatusEmail.ss
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1242/branches/0.8/templates/email/Order_StatusEmail.ss
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/1716/branches/0.8/code/tasks
+END
+ProductVariationsFromAttributeCombinations.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1525/branches/0.8/code/tasks/ProductVariationsFromAttributeCombinations.php
+END
+RecalculateAllOrdersTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1716/branches/0.8/code/tasks/RecalculateAllOrdersTask.php
+END
+DeleteEcommerceOrders.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1525/branches/0.8/code/tasks/DeleteEcommerceOrders.php
+END
+HourlyEcommerceGroupUpdate.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1242/branches/0.8/code/tasks/HourlyEcommerceGroupUpdate.php
+END
+CartCleanupTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1712/branches/0.8/code/tasks/CartCleanupTask.php
+END
+DeleteEcommerceProducts.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1249/branches/0.8/code/tasks/DeleteEcommerceProducts.php
+END
